@@ -1,4 +1,4 @@
-# StandardvsBagging
+# Standard vs Bagging
 
 
 Research Review: A CNN Based Bagging Learning Approach 
