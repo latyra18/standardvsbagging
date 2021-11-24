@@ -16,14 +16,15 @@ Methodology
 
 In the methodology section of the research review, the detailed steps of the proposed procedure. The procedure is divided in three stages in order to conduct a successful experiment. In the first stage, load data was collected and CNN trained models on data sets. The second stage was the building of CNN bagging learning model and the last stage was the construction of the submodels for metrics evaluation. Once these phases are implemented properly, then the experiment will be successfully run and results can be recorded.
 
+![5vc04z](https://user-images.githubusercontent.com/41024860/143192453-65a1d82b-3321-4a5c-b2ed-acb0183c737b.gif)
+
 Discussion
 
 In section III, the experiment is conducted and the results are recorded. First, the data set was collected in order to guarantee the success of the model. Next the base models are picked for method comparison. Lastly, the results are calculated using the evaluation metrics. After these steps were taken, the experimental results concluded that reorganization of samples is a more effective method of short-term forecasting.
 
 Conclusion
 
-In conclusion, the presented CNN learning approach was suggested in regards to forecasting hourly load in the smart grid. In the conducted experiment, the CNN models were edified on large data sets which resulted in great improvement for forecasting performance. Although the 
+In conclusion, the presented CNN learning approach was suggested in regards to forecasting hourly load in the smart grid. In the conducted experiment, the CNN models were edified on large data sets which resulted in great improvement for forecasting performance. Although the experiment displayed great results, there were still improvements that were needed. This research review thoroughly details the need for this approach, the steps needed to achieve this approach and future improvements that should be conducted in the future. 
 
-experiment displayed great results, there were still improvements that were needed. This research review thoroughly details the need for this approach, the steps needed to achieve this approach and future improvements that should be conducted in the future. 
-
-![5vc04z](https://user-images.githubusercontent.com/41024860/143192453-65a1d82b-3321-4a5c-b2ed-acb0183c737b.gif)
+Bagging Model Results:
+![Screen Shot 2021-11-24 at 1 21 47 AM](https://user-images.githubusercontent.com/41024860/143192948-669e2bd2-ff65-44db-a8d8-77d1c5f4e3e2.png)
