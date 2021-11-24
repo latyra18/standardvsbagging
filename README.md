@@ -27,4 +27,5 @@ Conclusion
 In conclusion, the presented CNN learning approach was suggested in regards to forecasting hourly load in the smart grid. In the conducted experiment, the CNN models were edified on large data sets which resulted in great improvement for forecasting performance. Although the experiment displayed great results, there were still improvements that were needed. This research review thoroughly details the need for this approach, the steps needed to achieve this approach and future improvements that should be conducted in the future. 
 
 Bagging Model Results:
+
 ![Screen Shot 2021-11-24 at 1 21 47 AM](https://user-images.githubusercontent.com/41024860/143192948-669e2bd2-ff65-44db-a8d8-77d1c5f4e3e2.png)
